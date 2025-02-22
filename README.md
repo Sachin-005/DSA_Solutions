@@ -23,6 +23,7 @@
 ## String
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
 |  |
@@ -47,10 +48,12 @@
 ## Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -63,5 +66,6 @@
 ## Binary Tree
 |  |
 | ------- |
+| [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 <!---LeetCode Topics End-->
