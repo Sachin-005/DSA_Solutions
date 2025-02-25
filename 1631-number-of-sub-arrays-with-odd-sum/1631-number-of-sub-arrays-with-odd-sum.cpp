@@ -9,14 +9,15 @@ public:
             prefixSum += num; // Keep prefix sum as normal
 
             if (prefixSum % 2 == 0) { 
-                count = (count + oddcount) % MOD; // Only apply modulo when updating count
+                count = (count + oddcount); // Only apply modulo when updating count
                 evencount++;
             } else { 
-                count = (count + evencount) % MOD; 
+                count = (count + evencount) ; 
                 oddcount++;
             }
+            count=count%MOD;
         }
         
-        return count; // Finally return count % MOD
+        return count%MOD; // Finally return count % MOD
     }
 };
