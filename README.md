@@ -16,6 +16,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Hash Table
 |  |
@@ -31,6 +32,7 @@
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
@@ -113,4 +115,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
