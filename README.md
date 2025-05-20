@@ -18,6 +18,7 @@
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -111,6 +112,7 @@
 |  |
 | ------- |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 ## Counting
 |  |
 | ------- |
