@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
+| [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-005/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -53,6 +54,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachin-005/DSA_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -136,5 +138,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
