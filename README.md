@@ -17,6 +17,7 @@
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sachin-005/DSA_Solutions/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -34,6 +35,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -124,6 +126,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
