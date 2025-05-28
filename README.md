@@ -20,6 +20,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
@@ -80,6 +81,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sachin-005/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0792-binary-search) |
 ## Bit Manipulation
