@@ -60,11 +60,13 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Backtracking
