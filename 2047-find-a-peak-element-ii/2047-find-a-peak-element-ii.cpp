@@ -9,7 +9,6 @@ public:
             int midCol = (low + high) / 2;
             int maxRow = 0;
 
-            // Find the row with the maximum element in midCol
             for (int row = 1; row < rows; row++) {
                 if (mat[row][midCol] > mat[maxRow][midCol]) {
                     maxRow = row;
