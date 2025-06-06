@@ -82,6 +82,7 @@
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sachin-005/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
@@ -111,6 +112,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 ## Sorting
