@@ -54,6 +54,7 @@
 | [0001-two-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0001-two-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
@@ -68,6 +69,7 @@
 | ------- |
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -272,5 +274,6 @@
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
