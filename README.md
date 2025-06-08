@@ -158,6 +158,7 @@
 | [0110-balanced-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0386-lexicographical-numbers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0386-lexicographical-numbers) |
 | [0543-diameter-of-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -292,4 +293,8 @@
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
+## Trie
+|  |
+| ------- |
+| [0386-lexicographical-numbers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0386-lexicographical-numbers) |
 <!---LeetCode Topics End-->
