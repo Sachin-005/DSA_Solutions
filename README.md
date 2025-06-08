@@ -70,6 +70,7 @@
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
@@ -126,6 +127,7 @@
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
@@ -196,6 +198,7 @@
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -277,6 +280,7 @@
 |  |
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0328-odd-even-linked-list) |
@@ -284,4 +288,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
