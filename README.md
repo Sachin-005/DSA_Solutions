@@ -65,6 +65,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -83,6 +84,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -237,6 +239,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
+| [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Simulation
 |  |
 | ------- |
