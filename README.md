@@ -171,6 +171,7 @@
 | [0543-diameter-of-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0547-number-of-provinces](https://github.com/Sachin-005/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/Sachin-005/DSA_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -186,6 +187,7 @@
 | [0130-surrounded-regions](https://github.com/Sachin-005/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sachin-005/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0801-is-graph-bipartite](https://github.com/Sachin-005/DSA_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1036-rotting-oranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -223,6 +225,7 @@
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sachin-005/DSA_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Sachin-005/DSA_Solutions/tree/master/0801-is-graph-bipartite) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sachin-005/DSA_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
@@ -262,6 +265,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Sachin-005/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0547-number-of-provinces](https://github.com/Sachin-005/DSA_Solutions/tree/master/0547-number-of-provinces) |
+| [0801-is-graph-bipartite](https://github.com/Sachin-005/DSA_Solutions/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 ## Matrix
 |  |
