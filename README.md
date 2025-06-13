@@ -49,6 +49,7 @@
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -125,6 +126,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin-005/DSA_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-005/DSA_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2047-find-a-peak-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -284,6 +286,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
+| [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
