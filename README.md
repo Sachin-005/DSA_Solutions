@@ -42,6 +42,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sachin-005/DSA_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin-005/DSA_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sachin-005/DSA_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-005/DSA_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -195,6 +196,7 @@
 | [1036-rotting-oranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sachin-005/DSA_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Design
 |  |
@@ -230,6 +232,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/Sachin-005/DSA_Solutions/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sachin-005/DSA_Solutions/tree/master/0801-is-graph-bipartite) |
+| [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sachin-005/DSA_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sachin-005/DSA_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
