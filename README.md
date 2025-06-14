@@ -105,6 +105,7 @@
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2649-count-total-number-of-colored-cells](https://github.com/Sachin-005/DSA_Solutions/tree/master/2649-count-total-number-of-colored-cells) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 ## Binary Search
 |  |
 | ------- |
@@ -286,6 +287,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
