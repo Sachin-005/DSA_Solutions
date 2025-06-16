@@ -72,6 +72,7 @@
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
 |  |
@@ -92,6 +93,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Backtracking
@@ -304,10 +306,12 @@
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Stack
 |  |
@@ -315,6 +319,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search Tree
 |  |
 | ------- |
