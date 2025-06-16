@@ -1,36 +1,38 @@
 class Solution {
 public:
     bool canFinish(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<vector<int>> adj(numCourses);       // Adjacency list
-        vector<int> inDegree(numCourses, 0);       // In-degree of each course
+        vector<vector<int>> adj(numCourses);
+        for (auto& p : prerequisites) {
+            adj[p[0]].push_back(p[1]);
+        }
 
-        // Build the graph
-        for (auto& x : prerequisites) {
-            adj[x[1]].push_back(x[0]);             // x[1] → x[0]
-            inDegree[x[0]]++;                      // Increase in-degree of course x[0]
+        vector<int> indegree(numCourses, 0);
+        for (int i = 0; i < numCourses; ++i) {
+            for (auto& v : adj[i]) {
+                indegree[v]++;
+            }
         }
 
         queue<int> q;
-        for (int i = 0; i < numCourses; i++) {
-            if (inDegree[i] == 0)
-                q.push(i);                         // Start with courses that have no prerequisites
+        for (int i = 0; i < numCourses; ++i) {
+            if (indegree[i] == 0) {
+                q.push(i);
+            }
         }
 
-        int completed = 0;                         // Count how many courses we can complete
-
+        int cnt = 0;
         while (!q.empty()) {
-            int t = q.front();
+            int node = q.front();
             q.pop();
-            completed++;                           // Mark course as completed
-
-            for (int x : adj[t]) {
-                inDegree[x]--;
-                if (inDegree[x] == 0) {
-                    q.push(x);                     // Ready to take this course
+            cnt++;
+            for (auto& v : adj[node]) {
+                indegree[v]--;
+                if (indegree[v] == 0) {
+                    q.push(v);
                 }
             }
         }
 
-        return completed == numCourses;            // If all courses completed, return true
+        return cnt == numCourses;
     }
 };
