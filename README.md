@@ -254,6 +254,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0820-find-eventual-safe-states](https://github.com/Sachin-005/DSA_Solutions/tree/master/0820-find-eventual-safe-states) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sachin-005/DSA_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/Sachin-005/DSA_Solutions/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Dynamic Programming
@@ -268,6 +269,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -378,9 +380,11 @@
 | [0207-course-schedule](https://github.com/Sachin-005/DSA_Solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0210-course-schedule-ii) |
 | [0820-find-eventual-safe-states](https://github.com/Sachin-005/DSA_Solutions/tree/master/0820-find-eventual-safe-states) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 ## Shortest Path
 |  |
 | ------- |
 | [0744-network-delay-time](https://github.com/Sachin-005/DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 <!---LeetCode Topics End-->
