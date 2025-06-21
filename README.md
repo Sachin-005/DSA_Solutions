@@ -29,6 +29,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
@@ -115,6 +116,7 @@
 | [0040-combination-sum-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sachin-005/DSA_Solutions/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 ## Math
 |  |
