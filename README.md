@@ -17,6 +17,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sachin-005/DSA_Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sachin-005/DSA_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0090-subsets-ii) |
@@ -100,6 +101,7 @@
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sachin-005/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -115,6 +117,7 @@
 | [0039-combination-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sachin-005/DSA_Solutions/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0090-subsets-ii) |
 | [0216-combination-sum-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0216-combination-sum-iii) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
@@ -193,6 +196,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0100-same-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0110-balanced-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/0110-balanced-binary-tree) |
@@ -337,6 +341,7 @@
 | [0054-spiral-matrix](https://github.com/Sachin-005/DSA_Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sachin-005/DSA_Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sachin-005/DSA_Solutions/tree/master/0130-surrounded-regions) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0794-swim-in-rising-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0794-swim-in-rising-water) |
