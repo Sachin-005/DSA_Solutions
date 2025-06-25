@@ -59,6 +59,7 @@
 | [2047-find-a-peak-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
@@ -164,6 +165,7 @@
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sachin-005/DSA_Solutions/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1753-path-with-minimum-effort](https://github.com/Sachin-005/DSA_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
