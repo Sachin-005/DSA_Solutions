@@ -75,6 +75,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Sachin-005/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
@@ -105,6 +106,7 @@
 | [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sachin-005/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/Sachin-005/DSA_Solutions/tree/master/0205-isomorphic-strings) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
