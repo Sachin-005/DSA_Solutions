@@ -70,6 +70,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0073-set-matrix-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sachin-005/DSA_Solutions/tree/master/0127-word-ladder) |
@@ -104,6 +105,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
@@ -134,6 +136,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/Sachin-005/DSA_Solutions/tree/master/0069-sqrtx) |
