@@ -32,6 +32,7 @@
 | [0162-find-peak-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/Sachin-005/DSA_Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0216-combination-sum-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -331,6 +332,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sachin-005/DSA_Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/Sachin-005/DSA_Solutions/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
