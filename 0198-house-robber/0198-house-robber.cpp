@@ -1,16 +1,17 @@
 class Solution {
 public:
-    int call(vector<int>&arr, int ind, vector<int>& dp){
-        if(ind == 0) return arr[0];
-        if(ind<0) return 0;
-        if(dp[ind]!=-1) return dp[ind];
-       int pick = arr[ind]+call(arr,ind-2,dp);
-       int notpick = 0+call(arr,ind-1,dp);
-       return dp[ind]= max(pick,notpick);
-    }
     int rob(vector<int>& nums) {
-        vector<int> dp(nums.size()+1,-1);
-        int size = nums.size()-1;
-       return call(nums,size,dp);
+        int n = nums.size();
+        vector<int> dp(n+1,-1);
+        dp[0] = nums[0];
+    for (int i = 1; i < n; i++) {
+        int pick = nums[i];
+        if (i > 1)
+            pick += dp[i - 2];
+        int nonPick = dp[i - 1];
+        dp[i] = max(pick, nonPick);
+        cout<<dp[i]<<endl;
+    }
+    return dp[n-1];
     }
 };
