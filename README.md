@@ -69,6 +69,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3747-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/3747-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 ## Hash Table
 |  |
@@ -401,6 +402,7 @@
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -456,6 +458,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
 |  |
