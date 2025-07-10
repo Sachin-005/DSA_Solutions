@@ -285,6 +285,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sachin-005/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sachin-005/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Binary Tree
 |  |
@@ -418,6 +419,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin-005/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sachin-005/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
@@ -483,6 +485,7 @@
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Sachin-005/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/Sachin-005/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
 ## Bucket Sort
 |  |
 | ------- |
