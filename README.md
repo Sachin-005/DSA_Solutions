@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/Sachin-005/DSA_Solutions/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0040-combination-sum-ii) |
+| [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sachin-005/DSA_Solutions/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sachin-005/DSA_Solutions/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0053-maximum-subarray) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
+| [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
@@ -338,6 +340,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0070-climbing-stairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/Sachin-005/DSA_Solutions/tree/master/0118-pascals-triangle) |
@@ -427,6 +430,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Sachin-005/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin-005/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
@@ -448,6 +452,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
