@@ -73,6 +73,7 @@
 | [2227-sum-of-subarray-ranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
@@ -123,6 +124,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachin-005/DSA_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
 | ------- |
@@ -226,6 +228,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachin-005/DSA_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 ## Tree
 |  |
@@ -423,6 +426,7 @@
 | [0402-remove-k-digits](https://github.com/Sachin-005/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
+| [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
