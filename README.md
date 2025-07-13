@@ -46,6 +46,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0735-asteroid-collision](https://github.com/Sachin-005/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0792-binary-search) |
 | [0794-swim-in-rising-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0794-swim-in-rising-water) |
@@ -100,6 +101,7 @@
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sachin-005/DSA_Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -226,6 +228,7 @@
 | [0242-valid-anagram](https://github.com/Sachin-005/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachin-005/DSA_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -384,6 +387,7 @@
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -425,6 +429,7 @@
 | ------- |
 | [0402-remove-k-digits](https://github.com/Sachin-005/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -438,6 +443,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0355-design-twitter](https://github.com/Sachin-005/DSA_Solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0744-network-delay-time](https://github.com/Sachin-005/DSA_Solutions/tree/master/0744-network-delay-time) |
 | [0794-swim-in-rising-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
