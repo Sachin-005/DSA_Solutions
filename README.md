@@ -141,6 +141,7 @@
 | [0013-roman-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0038-count-and-say](https://github.com/Sachin-005/DSA_Solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sachin-005/DSA_Solutions/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
