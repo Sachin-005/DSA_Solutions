@@ -148,6 +148,7 @@
 | [0242-valid-anagram](https://github.com/Sachin-005/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0402-remove-k-digits](https://github.com/Sachin-005/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachin-005/DSA_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -443,6 +444,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
 | [0876-hand-of-straights](https://github.com/Sachin-005/DSA_Solutions/tree/master/0876-hand-of-straights) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachin-005/DSA_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Sachin-005/DSA_Solutions/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -481,6 +483,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sachin-005/DSA_Solutions/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachin-005/DSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachin-005/DSA_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
