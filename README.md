@@ -128,6 +128,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sachin-005/DSA_Solutions/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sachin-005/DSA_Solutions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Sachin-005/DSA_Solutions/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
@@ -234,6 +235,7 @@
 | [0229-majority-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sachin-005/DSA_Solutions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
+| [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0621-task-scheduler](https://github.com/Sachin-005/DSA_Solutions/tree/master/0621-task-scheduler) |
@@ -318,6 +320,7 @@
 | [0155-min-stack](https://github.com/Sachin-005/DSA_Solutions/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sachin-005/DSA_Solutions/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Sachin-005/DSA_Solutions/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sachin-005/DSA_Solutions/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -457,6 +460,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sachin-005/DSA_Solutions/tree/master/0355-design-twitter) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
@@ -578,5 +582,6 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
