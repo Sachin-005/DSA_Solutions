@@ -120,6 +120,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Sachin-005/DSA_Solutions/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0042-trapping-rain-water) |
 | [0088-merge-sorted-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0088-merge-sorted-array) |
@@ -142,6 +143,7 @@
 | [0013-roman-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/0022-generate-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Sachin-005/DSA_Solutions/tree/master/0038-count-and-say) |
 | [0079-word-search](https://github.com/Sachin-005/DSA_Solutions/tree/master/0079-word-search) |
 | [0127-word-ladder](https://github.com/Sachin-005/DSA_Solutions/tree/master/0127-word-ladder) |
@@ -584,4 +586,8 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
