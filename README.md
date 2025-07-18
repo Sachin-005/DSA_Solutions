@@ -153,6 +153,7 @@
 | [0402-remove-k-digits](https://github.com/Sachin-005/DSA_Solutions/tree/master/0402-remove-k-digits) |
 | [0451-sort-characters-by-frequency](https://github.com/Sachin-005/DSA_Solutions/tree/master/0451-sort-characters-by-frequency) |
 | [0459-repeated-substring-pattern](https://github.com/Sachin-005/DSA_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Sachin-005/DSA_Solutions/tree/master/0686-repeated-string-match) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachin-005/DSA_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
@@ -593,6 +594,7 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/Sachin-005/DSA_Solutions/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Sachin-005/DSA_Solutions/tree/master/0686-repeated-string-match) |
 | [1508-longest-happy-prefix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1508-longest-happy-prefix) |
 ## Rolling Hash
 |  |
