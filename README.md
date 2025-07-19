@@ -82,6 +82,7 @@
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 | [3639-zero-array-transformation-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3639-zero-array-transformation-i) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
@@ -398,6 +399,7 @@
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sachin-005/DSA_Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
+| [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
 ## Prefix Sum
 |  |
 | ------- |
