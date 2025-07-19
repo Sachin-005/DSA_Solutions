@@ -192,6 +192,7 @@
 | [0069-sqrtx](https://github.com/Sachin-005/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
@@ -535,6 +536,7 @@
 | [0237-delete-node-in-a-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0328-odd-even-linked-list) |
 | [0355-design-twitter](https://github.com/Sachin-005/DSA_Solutions/tree/master/0355-design-twitter) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Recursion
 |  |
 | ------- |
