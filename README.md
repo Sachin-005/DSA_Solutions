@@ -75,6 +75,7 @@
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2227-sum-of-subarray-ranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/2227-sum-of-subarray-ranges) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sachin-005/DSA_Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -393,6 +394,7 @@
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/Sachin-005/DSA_Solutions/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sachin-005/DSA_Solutions/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -475,6 +477,7 @@
 | [0794-swim-in-rising-water](https://github.com/Sachin-005/DSA_Solutions/tree/master/0794-swim-in-rising-water) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [1753-path-with-minimum-effort](https://github.com/Sachin-005/DSA_Solutions/tree/master/1753-path-with-minimum-effort) |
+| [2267-minimum-difference-in-sums-after-removal-of-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2267-minimum-difference-in-sums-after-removal-of-elements) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3647-zero-array-transformation-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3647-zero-array-transformation-iii) |
