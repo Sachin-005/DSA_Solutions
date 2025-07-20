@@ -72,6 +72,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sachin-005/DSA_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2047-find-a-peak-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2047-find-a-peak-element-ii) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -116,6 +117,7 @@
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -164,6 +166,7 @@
 | [1508-longest-happy-prefix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1508-longest-happy-prefix) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1890-sum-of-beauty-of-all-substrings) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2107-find-unique-binary-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/2107-find-unique-binary-string) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Sachin-005/DSA_Solutions/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3617-find-the-original-typed-string-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3617-find-the-original-typed-string-i) |
@@ -551,6 +554,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Sachin-005/DSA_Solutions/tree/master/0386-lexicographical-numbers) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachin-005/DSA_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 ## Sliding Window
 |  |
 | ------- |
@@ -615,4 +619,5 @@
 |  |
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1508-longest-happy-prefix) |
+| [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
 <!---LeetCode Topics End-->
