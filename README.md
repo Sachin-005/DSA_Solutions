@@ -162,6 +162,7 @@
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sachin-005/DSA_Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sachin-005/DSA_Solutions/tree/master/1078-remove-outermost-parentheses) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Sachin-005/DSA_Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachin-005/DSA_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1508-longest-happy-prefix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1508-longest-happy-prefix) |
 | [1885-count-number-of-homogenous-substrings](https://github.com/Sachin-005/DSA_Solutions/tree/master/1885-count-number-of-homogenous-substrings) |
