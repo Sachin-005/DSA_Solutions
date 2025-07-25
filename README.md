@@ -62,6 +62,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sachin-005/DSA_Solutions/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sachin-005/DSA_Solutions/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Sachin-005/DSA_Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/Sachin-005/DSA_Solutions/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sachin-005/DSA_Solutions/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Sachin-005/DSA_Solutions/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -404,6 +405,7 @@
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachin-005/DSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Sachin-005/DSA_Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Sachin-005/DSA_Solutions/tree/master/1456-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
