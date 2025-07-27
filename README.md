@@ -58,6 +58,7 @@
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0907-koko-eating-bananas](https://github.com/Sachin-005/DSA_Solutions/tree/master/0907-koko-eating-bananas) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [0932-monotonic-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0932-monotonic-array) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachin-005/DSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1036-rotting-oranges](https://github.com/Sachin-005/DSA_Solutions/tree/master/1036-rotting-oranges) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sachin-005/DSA_Solutions/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
