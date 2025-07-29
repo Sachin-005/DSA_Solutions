@@ -377,6 +377,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-005/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/Sachin-005/DSA_Solutions/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sachin-005/DSA_Solutions/tree/master/0169-majority-element) |
@@ -496,6 +497,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-005/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sachin-005/DSA_Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Sachin-005/DSA_Solutions/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Sachin-005/DSA_Solutions/tree/master/0347-top-k-frequent-elements) |
@@ -554,6 +556,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-005/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0234-palindrome-linked-list) |
@@ -569,6 +572,7 @@
 ## Merge Sort
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/Sachin-005/DSA_Solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0148-sort-list](https://github.com/Sachin-005/DSA_Solutions/tree/master/0148-sort-list) |
 ## Trie
 |  |
