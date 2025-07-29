@@ -87,6 +87,7 @@
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2479-meeting-rooms-iii) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Sachin-005/DSA_Solutions/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sachin-005/DSA_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3490-find-the-maximum-length-of-valid-subsequence-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3490-find-the-maximum-length-of-valid-subsequence-i) |
@@ -239,6 +240,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sachin-005/DSA_Solutions/tree/master/1753-path-with-minimum-effort) |
 | [2047-find-a-peak-element-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/2047-find-a-peak-element-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Sachin-005/DSA_Solutions/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sachin-005/DSA_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 ## Bit Manipulation
 |  |
@@ -250,6 +252,7 @@
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/2323-minimum-bit-flips-to-convert-number) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Sachin-005/DSA_Solutions/tree/master/2400-minimum-score-after-removals-on-a-tree) |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sachin-005/DSA_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 ## Sorting
 |  |
 | ------- |
@@ -576,6 +579,7 @@
 ## Sliding Window
 |  |
 | ------- |
+| [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Sachin-005/DSA_Solutions/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [3743-reschedule-meetings-for-maximum-free-time-i](https://github.com/Sachin-005/DSA_Solutions/tree/master/3743-reschedule-meetings-for-maximum-free-time-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Enumeration
