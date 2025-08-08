@@ -207,6 +207,7 @@
 | [0069-sqrtx](https://github.com/Sachin-005/DSA_Solutions/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Sachin-005/DSA_Solutions/tree/master/0070-climbing-stairs) |
 | [0268-missing-number](https://github.com/Sachin-005/DSA_Solutions/tree/master/0268-missing-number) |
+| [0826-soup-servings](https://github.com/Sachin-005/DSA_Solutions/tree/master/0826-soup-servings) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Sachin-005/DSA_Solutions/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -415,6 +416,7 @@
 | [0213-house-robber-ii](https://github.com/Sachin-005/DSA_Solutions/tree/master/0213-house-robber-ii) |
 | [0410-split-array-largest-sum](https://github.com/Sachin-005/DSA_Solutions/tree/master/0410-split-array-largest-sum) |
 | [0803-cheapest-flights-within-k-stops](https://github.com/Sachin-005/DSA_Solutions/tree/master/0803-cheapest-flights-within-k-stops) |
+| [0826-soup-servings](https://github.com/Sachin-005/DSA_Solutions/tree/master/0826-soup-servings) |
 | [0905-length-of-longest-fibonacci-subsequence](https://github.com/Sachin-005/DSA_Solutions/tree/master/0905-length-of-longest-fibonacci-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sachin-005/DSA_Solutions/tree/master/0943-sum-of-subarray-minimums) |
 | [1288-maximum-subarray-sum-with-one-deletion](https://github.com/Sachin-005/DSA_Solutions/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
@@ -649,4 +651,8 @@
 | ------- |
 | [1508-longest-happy-prefix](https://github.com/Sachin-005/DSA_Solutions/tree/master/1508-longest-happy-prefix) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Sachin-005/DSA_Solutions/tree/master/2079-delete-duplicate-folders-in-system) |
+## Probability and Statistics
+|  |
+| ------- |
+| [0826-soup-servings](https://github.com/Sachin-005/DSA_Solutions/tree/master/0826-soup-servings) |
 <!---LeetCode Topics End-->
